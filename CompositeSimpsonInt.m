@@ -1,5 +1,5 @@
 function s=CompositeSimpsonInt(f,a,b,M)
-% Input  - f is the integrand input as a string 'f'
+% Input  - f is the integrand input
 %        - a and b are upper and lower limits of integration
 %        - M is the number of subintervals
 %Output  - s is the simpson rule sum
